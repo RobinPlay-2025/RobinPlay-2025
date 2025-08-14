@@ -1,6 +1,6 @@
 <!-- Баннер -->
 <p align="center">
-  <img src="https://i.ibb.co/sdpqNLRm/Rust-Innovate.png" alt="RustInnovate — плагины для Rust" />
+  <img src="https://i.ibb.co/X0FK4TR/Rust-Innovate.png" alt="RustInnovate — плагины для Rust" />
 </p>
 
 # 🎮 Привет, я Robin Play!
