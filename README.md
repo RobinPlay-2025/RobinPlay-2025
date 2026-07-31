@@ -14,6 +14,7 @@
 ## 📦 Бесплатные плагины
 - [**Free-Plugins**](https://github.com/RobinPlay-2025/Free-Plugins) — коллекция бесплатных приватных плагинов для Rust.
 - [**rust-template**](https://github.com/RobinPlay-2025/rust-template) — шаблон для создания плагинов под Oxide/Carbon.
+- [**RustPulse**](https://github.com/RobinPlay-2025/rust-update-bot) - публикация постов обновлений на сервер в  LOLKA
 
 ## 🔓 Бесплатные утилиты
 - [**Tools**](https://github.com/RobinPlay-2025/Tools) - бесплатные утилиты
