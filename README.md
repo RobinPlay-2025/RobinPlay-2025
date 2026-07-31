@@ -21,10 +21,6 @@
 
 ---
 
-## 💰 Платные плагины (список)
-
----
-
 ## 🔗 Контакты
 [![VK](https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/robin_play)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KxjrH9q7v)
